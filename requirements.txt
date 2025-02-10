@@ -1,0 +1,14 @@
+streamlit
+langchain
+openai
+torch
+torchvision
+torchaudio
+pinecone-client
+psycopg2-binary
+requests
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+boto3
