@@ -1,8 +1,8 @@
-# fashion-recommendation-system
+# 🛍️ AI-Powered Fashion Recommendation System  
 This project is an AI-powered fashion recommendation system that suggests outfits based on user preferences and styles. It utilizes CLIP (Contrastive Language–Image Pretraining) and Machine Learning algorithms to analyze images and text descriptions, providing personalized recommendations.
 
 
-# 🛍️ AI-Powered Fashion Recommendation System  
+
 
 🚀 **Personalized Outfit Suggestions Using AI**  
 This project leverages **OpenAI's CLIP model** and **Machine Learning algorithms** to build a **smart fashion recommendation system**. It analyzes images and text descriptions to suggest the most suitable outfits for users based on their preferences and styles.  
